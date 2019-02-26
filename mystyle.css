@@ -1,5 +1,15 @@
-body {background-color: lightblue;}
-h1 {color: navy;text-align: center;}
+body {background-color: rgb(35, 255, 30);
+  /*background-image: url("voetbal.jpg");*/
+  /*background-repeat: repeat-x;*/
+}
+h1 {color: green;text-align: center;}
+hr {color: green;}
 h4 {color: white;}
 ol {color: white;}
 ul {color: white;}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
